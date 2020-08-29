@@ -1,5 +1,6 @@
 # TipDesign
 Emoji (Table having 5 Columns)
+
 		EmojiID (Primary key Auto increament Unique For Each Video (DOUBLE) )
 		StreamID (Video ID Stream ID of Playing Video It CAN ALSO be a Foreign Key (DOUBLE))
 		Fire ( type(DOUBLE) )
